@@ -16,9 +16,6 @@
 
 /*
 TODO :
-- improve items ( sprite )
-- improve items movement
-
 - add bad items ( remove life )
 - add money/points sprite
 - improve UI
